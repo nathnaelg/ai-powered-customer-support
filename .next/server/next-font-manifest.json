@@ -1,0 +1,19 @@
+{
+  "app": {
+    "[project]/app/(chat)/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2",
+      "static/media/GeistMono_Variable.p.0ce97b8a.woff2"
+    ],
+    "[project]/app/login/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2",
+      "static/media/GeistMono_Variable.p.0ce97b8a.woff2"
+    ],
+    "[project]/app/(chat)/chat/[id]/page": [
+      "static/media/Geist_Variable-s.p.781b491f.woff2",
+      "static/media/GeistMono_Variable.p.0ce97b8a.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

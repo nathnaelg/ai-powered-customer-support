@@ -1,0 +1,36 @@
+{
+  "pages": {
+    "/(chat)/page": [
+      "static/chunks/_e14490._.css",
+      "static/chunks/_02769f._.js",
+      "static/chunks/80c44_next_847790._.js",
+      "static/chunks/9722c_tailwind-merge_dist_bundle-mjs_mjs_a0fe8d._.js",
+      "static/chunks/52f43_@radix-ui_react-icons_dist_react-icons_esm_028f1c.js",
+      "static/chunks/97fae_framer-motion_dist_es_56f3d3._.js",
+      "static/chunks/node_modules__pnpm_1c875f._.js",
+      "static/chunks/app_layout_tsx_c1e508._.js",
+      "static/chunks/app_(chat)_layout_tsx_90a9aa._.js",
+      "static/chunks/app_(chat)_layout_tsx_afd270._.js",
+      "static/chunks/_849e59._.js",
+      "static/chunks/6e532_react-syntax-highlighter_dist_30b7cb._.js",
+      "static/chunks/node_modules__pnpm_f9e053._.js",
+      "static/chunks/6db0f_refractor_lang_d93fc0._.js",
+      "static/chunks/6db0f_refractor_597452._.js",
+      "static/chunks/f5950_micromark_dev_lib_fc124b._.js",
+      "static/chunks/4c273_micromark-core-commonmark_dev_lib_76580a._.js",
+      "static/chunks/node_modules__pnpm_df0b49._.js",
+      "static/chunks/components_stocks_21e009._.js",
+      "static/chunks/app_(chat)_page_tsx_3848c1._.js",
+      "static/chunks/80c44_next_dist_compiled_react_62155b._.js",
+      "static/chunks/80c44_next_dist_compiled_react-dom_cjs_react-dom_development_ff8e01.js",
+      "static/chunks/80c44_next_dist_compiled_react-dom_a04830._.js",
+      "static/chunks/80c44_next_dist_compiled_37ee9c._.js",
+      "static/chunks/80c44_next_dist_client_c5844c._.js",
+      "static/chunks/80c44_next_dist_2967b5._.js",
+      "static/chunks/90481_@swc_helpers_cjs_e55b81._.js",
+      "static/chunks/[turbopack]_dev_client_hmr-client_ts_974e5c._.js",
+      "static/chunks/80c44_next_dist_esm_build_templates_app-page_7412ad.js",
+      "static/chunks/80c44_next_dist_esm_build_templates_app-page_1835d5.js"
+    ]
+  }
+}
